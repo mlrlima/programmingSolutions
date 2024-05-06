@@ -9,7 +9,7 @@ int main(){
     cin>>c>>t;
     long long int d,x,y, raios[c], total=0,qtd;
 
-    for(int i=0;ix<c;i++){
+    for(int i=0;i<c;i++){
         cin>>raios[i];
         //cout<<"*"<<raios[i]*raios[i]<<endl;
     }
