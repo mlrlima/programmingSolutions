@@ -1,4 +1,3 @@
-//tentar reenviar pq o site do beecrowd ta sem fucnionar???
 #include<iostream>
 #include<string>
 using namespace std;
